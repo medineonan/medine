@@ -20,7 +20,7 @@ package abstractClass;
 	class JavaFile extends File{
 		// public modifier
 		public void open() {
-			System.out.println("Open with Java");
+			System.out.println("Open with Java Gulbahar");
 		}	
 	}
 	class WordFile extends File{
