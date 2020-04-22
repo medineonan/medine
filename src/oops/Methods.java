@@ -15,7 +15,6 @@ void sayAnything(String word,int times) {
 	}
 	}
 
-
 public static void main(String[]args) {
 	Methods m=new Methods();
 	m.sayWelcome();
